@@ -4,6 +4,9 @@
 
 ## Build Setup
 
+# Server
+Run the server by cloning my other repository https://github.com/kali67/NodeJSAuctions and follow readME
+
 ``` bash
 # install dependencies
 npm install
